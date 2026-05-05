@@ -1,0 +1,10 @@
+{
+  "name": "ニッシン堂音楽教室",
+  "short_name": "ニッシン堂",
+  "description": "世田谷で1対1のやさしい音楽レッスン",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff9f1",
+  "theme_color": "#fff9f1",
+  "icons": []
+}
